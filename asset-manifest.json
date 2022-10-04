@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/m2001said/AI-website-React/static/css/main.5f695c26.css",
-    "main.js": "/m2001said/AI-website-React/static/js/main.70089417.js",
-    "static/media/ai.png": "/m2001said/AI-website-React/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/m2001said/AI-website-React/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/m2001said/AI-website-React/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/m2001said/AI-website-React/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/m2001said/AI-website-React/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/m2001said/AI-website-React/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/m2001said/AI-website-React/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/m2001said/AI-website-React/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/m2001said/AI-website-React/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/m2001said/AI-website-React/index.html",
-    "main.5f695c26.css.map": "/m2001said/AI-website-React/static/css/main.5f695c26.css.map",
-    "main.70089417.js.map": "/m2001said/AI-website-React/static/js/main.70089417.js.map"
+    "main.css": "/AI-website-React/static/css/main.5f695c26.css",
+    "main.js": "/AI-website-React/static/js/main.f1dd35a3.js",
+    "static/media/ai.png": "/AI-website-React/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/AI-website-React/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/AI-website-React/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/AI-website-React/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/AI-website-React/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/AI-website-React/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/AI-website-React/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/AI-website-React/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/AI-website-React/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/AI-website-React/index.html",
+    "main.5f695c26.css.map": "/AI-website-React/static/css/main.5f695c26.css.map",
+    "main.f1dd35a3.js.map": "/AI-website-React/static/js/main.f1dd35a3.js.map"
   },
   "entrypoints": [
     "static/css/main.5f695c26.css",
-    "static/js/main.70089417.js"
+    "static/js/main.f1dd35a3.js"
   ]
 }
