@@ -1,7 +1,7 @@
 {
   "name": "gpt-website",
   "version": "0.1.0",
-  "homepage": "https://github.com/m2001said/AI-website-React",
+  "homepage": "https://m2001said.github.io/AI-website-React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
